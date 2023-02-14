@@ -39,8 +39,8 @@ header a > img {
 }
 
 header a > img {
-  width: 7em;
-  height: 7em;
+  width: 6em;
+  height: 6em;
   border: 1px solid #2222;
   box-shadow: rgb(28 32 93 / 24%) 0px 2px 80px 0px;
 }
