@@ -5,7 +5,7 @@
 ## projek
 sa buat projek ini atas motivasi untuk konsisten belajar ngoding
 
-- projek link [Klik 🎯]()
+- projek link [Klik 🎯](https://imin-code.github.io/test-linktre/)
 
 ## ~~👨‍💻titik koma~~
 
